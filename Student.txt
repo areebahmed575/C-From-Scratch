@@ -1,0 +1,3 @@
+student : areeb 
+age :  24 
+cgpa : 3.100000
