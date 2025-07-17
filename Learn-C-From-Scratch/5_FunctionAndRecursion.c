@@ -95,7 +95,7 @@
 
 
 
-//Sum of first n natural number
+//Q- Sum of first n natural number using recursion
 // int sum(int n);
 
 // int main()
@@ -120,7 +120,7 @@
 
 
 
-// Sum of first n natural number
+// Q- Calculate factorial using recursion
 // int factorial(int n);
 
 // int main()
@@ -146,7 +146,7 @@
 
 
 
-//fibonacci
+//Q- fibonacci using recursion
 int fibonacci(int n);
 
 int main()

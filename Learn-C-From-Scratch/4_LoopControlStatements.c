@@ -151,16 +151,15 @@
 
 
 
-#include <stdio.h>
 
-int main(void) {
-    int rows = 4;
-    int cols = 5;
-    for (int i = 0; i < rows; i++) {       // outer loop for each row
-        for (int j = 0; j < cols; j++) {   // inner loop for each column
-            printf("*");
-        }
-        printf("\n");
-    }
-    return 0;
-}
+// int main(void) {
+//     int rows = 4;
+//     int cols = 5;
+//     for (int i = 0; i < rows; i++) {       // outer loop for each row
+//         for (int j = 0; j < cols; j++) {   // inner loop for each column
+//             printf("*");
+//         }
+//         printf("\n");
+//     }
+//     return 0;
+// }

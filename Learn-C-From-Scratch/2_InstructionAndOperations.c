@@ -49,7 +49,7 @@
 // Operator Precedence
 // *,/,%  -->  +,-  -->  =
 
-// Assciativity (for same precedence)
+// Associativity (for same precedence)
 
 // x = 4*3 / 6*2 --> Left to Right (for same Precedence it will follow left to right rule)
 
